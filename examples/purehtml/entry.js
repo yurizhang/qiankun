@@ -19,3 +19,4 @@ const render = $ => {
     },
   };
 })(window);
+// 这里不能加入update吗？
